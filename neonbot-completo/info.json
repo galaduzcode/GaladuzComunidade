@@ -1,0 +1,4 @@
+{
+    "token": "seu token",
+    "prefix": "prefixo para indicar que é um comando, podem ser letras, numeros o que quiser para significar que é um comando" 
+}
